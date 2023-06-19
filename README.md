@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bastirogge
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning to do
-- 💞️ I’m looking to collaborate on .....
+- 💞️ I’m looking to collaborate on this
 - 📫 How to reach me gmail
 
 <!---
